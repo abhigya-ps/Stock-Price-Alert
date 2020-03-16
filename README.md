@@ -11,7 +11,7 @@ Install alpha_vantage package to access stock market data. Visit Alpha Vantage's
 API key. 
 * https://www.alphavantage.co/support/#api-key
 
-For gmail users activate two-factor authentication and create an app password and add that to an
+For gmail users, activate two-factor authentication and create an app password and add that to an
 environment variable which your script will have access to. This way not only will you be avoiding
 your actual email password, but even your app password is not used in the program.
 * https://myaccount.google.com/u/1/apppasswords
